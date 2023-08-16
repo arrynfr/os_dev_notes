@@ -2,7 +2,7 @@
 Bookmarks to resources that I used
 
 # uncategorized Resources
-[Gamozolab's FuzzOS youtube playlit](https://www.youtube.com/watch?v=2YAgDJTs9So&list=PLSkhUfcCXvqHuv1LOXTVDpBIi67Lr3_MC&index=6)  
+[Gamozolab's FuzzOS youtube playlist](https://www.youtube.com/watch?v=2YAgDJTs9So&list=PLSkhUfcCXvqHuv1LOXTVDpBIi67Lr3_MC&index=6)  
 [自作OSで学ぶマイクロカーネルの設計と実装/Learn microkernel design and implementation (Japanese)](https://github.com/nuta/microkernel-book)  
 [osdev wiki](https://wiki.osdev.org/Main_Page)  
 [The Rust Programming Language](https://doc.rust-lang.org/book/)  
