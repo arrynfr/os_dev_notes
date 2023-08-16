@@ -13,3 +13,4 @@ Bookmarks to resources that I used
 [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 [ThatOSDev UEFI-Tuts Official Videos](https://www.youtube.com/watch?v=hkZUd8norFc&list=PLwH94sFU_ljPi2ClIcWIvuc1GdLT81uuH)
 [Andreas Kling's Youtube Channel (SerenityOS)](https://www.youtube.com/@awesomekling)
+[ Writing an OS in Rust](https://os.phil-opp.com/)
